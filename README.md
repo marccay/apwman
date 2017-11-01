@@ -18,3 +18,23 @@ Commands:
 	"n" | "new" 	:: creates and encrypt password file, prompts for info
 			
 
+
+Examples:
+
+		$ apwman read example
+
+	[decrypted]: example
+
+	test@example.com
+	password123
+
+
+
+		$ apwman new example
+
+	Username:
+		<prompt>
+	Password:
+		<prompt>
+
+
