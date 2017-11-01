@@ -11,8 +11,9 @@ user chooses file managment
 	
 
 Commands:
-			"h" | "help" 	:: print help/info prompt
-			"r" | "read" 	:: decrypt file and print file content
-			"n" | "new" 	:: creates and encrypt password file, prompts for info
+
+	"h" | "help" 	:: print help/info prompt
+	"r" | "read" 	:: decrypt file and print file content
+	"n" | "new" 	:: creates and encrypt password file, prompts for info
 			
 
