@@ -1,6 +1,7 @@
 # apwman
 
 Yet Another GPG Password Manager
+
 	GPG depenency
 	user chooses file managment
 
@@ -34,6 +35,7 @@ Encrypt Example:
 	$ apwman new example
 
 Output:
+
 	Username:
 		<prompt>
 	Password:
