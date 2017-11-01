@@ -1,10 +1,8 @@
 # apwman
 
 Yet Another GPG Password Manager
-
-GPG depenency
-
-user chooses file managment
+	GPG depenency
+	user chooses file managment
 
 Basic Syntax:
 		
@@ -19,9 +17,11 @@ Commands:
 			
 
 
-Examples:
+Decrypt Example:
 
-		$ apwman read example
+	$ apwman read example
+
+Output:
 
 	[decrypted]: example
 
@@ -29,9 +29,11 @@ Examples:
 	password123
 
 
+Encrypt Example:
 
-		$ apwman new example
+	$ apwman new example
 
+Output:
 	Username:
 		<prompt>
 	Password:
