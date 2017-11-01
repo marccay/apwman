@@ -6,7 +6,8 @@ GPG depenency
 
 user chooses file managment
 
-
+Basic Syntax:
+		
 		apwman [command] FILE
 	
 
