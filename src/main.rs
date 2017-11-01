@@ -9,7 +9,7 @@ use std::process::exit;
 
 use gpgme::{Context, Protocol};
 
-const Key: &'static str = "31A0B1473411B07A";
+const Key: &'static str = "your gpg key here";
 
 fn main() {
 	let args : Vec<String> = env::args().collect();
